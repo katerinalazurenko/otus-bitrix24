@@ -4,5 +4,10 @@
     },
     "config": {
         "vendor-dir": "local/vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Otus\\Diag\\": "local/php_interface/Otus/Diag/"
+        }
     }
 }

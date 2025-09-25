@@ -4,3 +4,13 @@ Division by zero (0)
 /home/c/cd30036/public_html/otus/debug/exception.php:4
 ----------
 
+Otus - 2025-09-23 16:28:22 - Host: cd30036.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cd30036/public_html/otus/debug/exception.php:4
+----------
+
+Otus - 2025-09-23 17:31:06 - Host: cd30036.tw1.ru - UNCAUGHT_EXCEPTION - [DivisionByZeroError] 
+Division by zero (0)
+/home/c/cd30036/public_html/otus/debug/exception.php:4
+----------
+

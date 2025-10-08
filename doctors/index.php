@@ -98,15 +98,6 @@ if($action == 'new' || $action == 'edit') {
         }
 }
 ?>
-<pre>path <?echo $path;?></pre>
-<pre>doctors <?print_r($doctors)?></pre>
-<pre>doctor <?print_r($doctor)?></pre>
-<pre>procedures <?print_r($procedures)?></pre>
-<pre>action <?print_r($action)?></pre>
-<pre>doctor_name <?print_r($doctor_name)?></pre>
-<pre>get <?=$_GET['path']?></pre>
-<pre>data <?print_r($data)?></pre>
-<pre>$_POST <?print_r($_POST)?></pre>
 <section class="doctors">
     <h1><a href="/doctors">Врачи</a></h1>
     <? if(empty($action)):?>
